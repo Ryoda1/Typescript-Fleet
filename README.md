@@ -1,1 +1,1 @@
-Костиль для запуска Typescript в Jetbrains Fleet
+Костиль для запуска Typescript кода в Jetbrains Fleet
